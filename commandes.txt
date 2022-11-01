@@ -1,0 +1,15 @@
+METTEZ LE TOKEN DE VOTRE BOT DANS bot_token.txt
+
+COMMANDES DU BOT. VOUS DEVEZ AVOIR LES PERMISSIONS POUR AJOUTER LE BOT
+======================================================================== 
+
+!nuke --> supprimer tous les salons
+
+!spam "nombre de salons" "nom des salons" --> spam la création de salons (ne pas ajouter les guillemets)
+
+!alert --> Spam dans tous les salons la mention Everyone
+
+!ban "@personne" --> bannir une personne sans raison (ne pas ajouter les guillemets - la permission Bannir des membres et requise)
+
+!kick "@personne" --> expulser une personne sans raison (ne pas ajouter les guillemets - la permission Expulser des membres est requise)
+
